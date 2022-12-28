@@ -1,0 +1,3 @@
+- :point_right: Coding Software Architect
+- 💞️ having fun with code and everything around code and some other stuff
+- 👀 Java, Golang, CI/CD, Testing, Cloud, ...
